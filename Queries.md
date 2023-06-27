@@ -1,6 +1,11 @@
 JAVA Basics Practice Problem Solution
 
+===================================================
+
+
 Question: 1,2 done.
+
+===================================================
 
 
 Question: 3
@@ -15,7 +20,14 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.202-b08, mixed mode)
 (c) Microsoft Corporation. All rights reserved.
 
 
+===================================================
+
+
 QUES 4 AND 5 DONE.
+
+
+===================================================
+
 
 QUESTION 6: DONE 
 
