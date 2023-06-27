@@ -109,3 +109,29 @@ error: Class names, 'HW.JAVA', are only accepted if annotation processing is exp
 E:\JavaCollection\Java\Basics>
 
 
+==================================================
+
+
+QUES 16
+DONE
+
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\JavaCollection\Java\Basics>javac multiclass.java
+
+E:\JavaCollection\Java\Basics>java multiclass
+Multiclass
+
+E:\JavaCollection\Java\Basics>java multiclass1
+Multiclass 1
+E:\JavaCollection\Java\Basics>java multiclass2
+Multiclass 2
+
+E:\JavaCollection\Java\Basics>
+
+
+==================================================
+
+
+
