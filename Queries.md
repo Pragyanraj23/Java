@@ -56,7 +56,7 @@ Hello, World!
 ===================================================
 
 
-QUES 11 ANND 12 DONE
+QUES 11 DONE
 
 ANSWER:
 Microsoft Windows [Version 10.0.22000.493]
@@ -75,8 +75,37 @@ C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\produc
 
 
 
+===================================================
 
 
+QUES 12 AND 13 : Without compiling it.
+DONE
 
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\JavaCollection\Java\Basics>JAVA HelloWorld
+Hello, World!
+
+===================================================
+
+
+QUES 14 DONE SHARE WITH BUDDY
+
+
+===================================================
+
+QUES 15
+DONE
+SAVE FILE WITH ANOTHER NAME
+
+Microsoft Windows [Version 10.0.22000.493]
+(c) Microsoft Corporation. All rights reserved.
+
+E:\JavaCollection\Java\Basics>javac HW.JAVA
+error: Class names, 'HW.JAVA', are only accepted if annotation processing is explicitly requested
+1 error
+
+E:\JavaCollection\Java\Basics>
 
 
