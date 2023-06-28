@@ -137,6 +137,70 @@ E:\JavaCollection\Java\Basics>
 
 ==================================================
 
-QUES 17 DONE
+QUES 17 SHARE ALL FILES WITH BUDDY AND ASK THEM TO EXECUTE. 
+
+DONE
+
+==================================================
+
+QUES 18
+
+
+==================================================
+
+QUES 19
+
+ANSWER:
+IN PROGRAM FILE (.JAVA FILE) AND (.CLASS FILE), BOTH HAVE DIFFERENT SAPACE AND INTENDETION.
+
+
+==================================================
+
+QUES 20 VARIABLE NAME STARTING WITH NUMBER
+
+DONE 
+OUTPUT: 
+
+E:\JavaCollection\Java\Basics>javac VarNamNumb.java
+VarNamNumb.java:3: error: not a statement
+ 1a=10;
+ ^
+VarNamNumb.java:3: error: ';' expected
+ 1a=10;
+  ^
+VarNamNumb.java:4: error: not a statement
+ 2b=10;
+ ^
+VarNamNumb.java:4: error: ';' expected
+ 2b=10;
+  ^
+VarNamNumb.java:5: error: ';' expected
+ c=1a+2b;
+    ^
+VarNamNumb.java:5: error: not a statement
+ c=1a+2b;
+     ^
+VarNamNumb.java:5: error: ';' expected
+ c=1a+2b;
+       ^
+7 errors
+
+==================================================
+
+QUES 21
+
+==================================================
+
+QUES 22
+
+==================================================
+
+QUES 23
+
+==================================================
+
+QUES 24
+
+
 
 
