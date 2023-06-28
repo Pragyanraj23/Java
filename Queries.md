@@ -163,27 +163,40 @@ OUTPUT:
 
 E:\JavaCollection\Java\Basics>javac VarNamNumb.java
 VarNamNumb.java:3: error: not a statement
+
  1a=10;
  ^
+ 
 VarNamNumb.java:3: error: ';' expected
  1a=10;
   ^
+  
 VarNamNumb.java:4: error: not a statement
  2b=10;
  ^
+ 
 VarNamNumb.java:4: error: ';' expected
  2b=10;
   ^
+  
 VarNamNumb.java:5: error: ';' expected
  c=1a+2b;
     ^
+    
 VarNamNumb.java:5: error: not a statement
  c=1a+2b;
      ^
+     
 VarNamNumb.java:5: error: ';' expected
  c=1a+2b;
+ 
        ^
 7 errors
+
+E:\JavaCollection\Java\Basics>java VarNamNumb
+
+Error: Could not find or load main class VarNamNumb
+Caused by: java.lang.ClassNotFoundException: VarNamNumb
 
 ==================================================
 
