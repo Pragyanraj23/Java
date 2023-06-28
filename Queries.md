@@ -125,6 +125,7 @@ Multiclass
 
 E:\JavaCollection\Java\Basics>java multiclass1
 Multiclass 1
+
 E:\JavaCollection\Java\Basics>java multiclass2
 Multiclass 2
 
