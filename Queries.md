@@ -189,7 +189,6 @@ VarNamNumb.java:5: error: not a statement
      
 VarNamNumb.java:5: error: ';' expected
  c=1a+2b;
- 
        ^
 7 errors
 
