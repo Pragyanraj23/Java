@@ -121,17 +121,102 @@ Microsoft Windows [Version 10.0.22000.493]
 E:\JavaCollection\Java\Basics>javac multiclass.java
 
 E:\JavaCollection\Java\Basics>java multiclass
+
 Multiclass
 
 E:\JavaCollection\Java\Basics>java multiclass1
+
 Multiclass 1
+
 E:\JavaCollection\Java\Basics>java multiclass2
+
 Multiclass 2
 
 E:\JavaCollection\Java\Basics>
 
 
 ==================================================
+
+QUES 17 SHARE ALL FILES WITH BUDDY AND ASK THEM TO EXECUTE. 
+
+DONE
+
+==================================================
+
+QUES 18
+
+
+==================================================
+
+QUES 19
+
+ANSWER:
+IN PROGRAM FILE (.JAVA FILE) AND (.CLASS FILE), BOTH HAVE DIFFERENT SAPACE AND INTENDETION.
+
+
+==================================================
+
+QUES 20 VARIABLE NAME STARTING WITH NUMBER
+
+DONE 
+OUTPUT: 
+
+E:\JavaCollection\Java\Basics>javac VarNamNumb.java
+VarNamNumb.java:3: error: not a statement
+
+ 1a=10;
+ ^
+ 
+VarNamNumb.java:3: error: ';' expected
+ 1a=10;
+  ^
+  
+VarNamNumb.java:4: error: not a statement
+ 2b=10;
+ ^
+ 
+VarNamNumb.java:4: error: ';' expected
+ 2b=10;
+  ^
+  
+VarNamNumb.java:5: error: ';' expected
+ c=1a+2b;
+    ^
+    
+VarNamNumb.java:5: error: not a statement
+ c=1a+2b;
+     ^
+     
+VarNamNumb.java:5: error: ';' expected
+ c=1a+2b;
+       ^
+7 errors
+
+E:\JavaCollection\Java\Basics>java VarNamNumb
+
+Error: Could not find or load main class VarNamNumb
+Caused by: java.lang.ClassNotFoundException: VarNamNumb
+
+==================================================
+
+QUES 21
+
+==================================================
+
+QUES 22
+
+==================================================
+
+QUES 23
+
+==================================================
+
+QUES 24
+
+
+
+
+
 
 
 
